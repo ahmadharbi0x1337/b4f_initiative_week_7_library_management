@@ -1,0 +1,35 @@
+{
+  "authors": [
+    {
+      "name": "Agatha Cristie",
+      "nationality": "Canadian",
+      "id": "dTakB_qQEC0"
+    }
+  ],
+  "borrowers": [
+    {
+      "bookId": "Ov0QGHnfKGw",
+      "borrowerName": "Ahmad Alharbi",
+      "borrowDate": "2026-09-27",
+      "returnDate": "2026-09-27",
+      "id": "c6LF5R_Cy8Q"
+    },
+    {
+      "bookId": "Ov0QGHnfKGw",
+      "borrowerName": "Karam Nassr",
+      "borrowDate": "2026-09-27",
+      "returnDate": "2026-10-13",
+      "id": "HgKAOcQLoLc"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder on The Orient Express",
+      "authorId": "dTakB_qQEC0",
+      "category": "Policy",
+      "available": false,
+      "id": "Ov0QGHnfKGw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
